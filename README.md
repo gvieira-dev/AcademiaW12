@@ -40,6 +40,8 @@ Template-Cafeteria-main/
 │       ├── products-01.jpg
 │       ├── products-02.jpg
 │       └── products-03.jpg
+│       └── carrossel-01.jpg
+│       └── carrossel-02.jpg
 ├── css/
 │   └── styles.css      # Estilos e layout do site
 └── js/
